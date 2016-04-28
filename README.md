@@ -8,3 +8,5 @@ I'm learning to use GitHub.
 * Is this a bullet?
 * Yes, it is.
 Learning about commenting in changes.
+He's showing how to make a link 
+[I can make links](https://computecanada.github.io/2016-04-28-ualberta/)
