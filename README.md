@@ -10,3 +10,6 @@ I'm learning to use GitHub.
 Learning about commenting in changes.
 He's showing how to make a link 
 [I can make links](https://computecanada.github.io/2016-04-28-ualberta/)
+
+:octocat:
+They have goddamn emojis for the gitcat thingy mascot.
