@@ -7,3 +7,4 @@ I'm learning to use GitHub.
   3. Checking it twice.
 * Is this a bullet?
 * Yes, it is.
+Learning about commenting in changes.
